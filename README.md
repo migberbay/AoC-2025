@@ -21,3 +21,8 @@ parts (1), (2), (1,2)
 | [Day 10](https://adventofcode.com/2025/day/10) | ⭐⭐ | 1004.83 ms |
 | [Day 11](https://adventofcode.com/2025/day/11) | ⭐⭐ | 4.00 ms |
 | [Day 12](https://adventofcode.com/2025/day/12) | ⭐⭐ | 9.50 ms |
+
+# Comments
+day 9 and day 8 could be solved much much faster with the correct cache optimizations but I'm not gonna bother, I'm quite happy with my solutions, they should work for any input.
+
+if you run day 8 do not be scared by the completion bar, it finished around 2-3% it's there to see the speed at which it solves iterations of the loop.
